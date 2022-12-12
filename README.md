@@ -7,25 +7,25 @@ Consecuencia: Obstaculiza el crecimiento económico.
 Iniciativa: Programa de recompensas.
 Finalidad: ofrecer dinero a cambio de información.
 
-OBJETIVOS
+## OBJETIVOS ##
 Desarrollar un software de reconocimiento facial que sea capaz de reconocer a las personas requisitoriadas a nivel del departamento de Apurimac.
 Diseñar un software que sea capaz de procesar imágenes de diferentes tamaños.
 Implementar el software que sea capaz de procesar imágenes en busca de personas requisitoriadas.
 Implementar el software que sea capaz de procesar video (webcam) en tiempo real.
 
-METODOLOGÍA
+## METODOLOGÍA ##
 Utilización de tres algoritmos de Clasificación y una Red Neuronal.
 Para el tratamiento de las imágenes se utilizo OpenCV y el Dataset con e que se conto fue 67 % de entrenamienyo y 33 % de prueba, 
 como variables a predecir fueron imágenes de rostro de mi persona, de dos compañeros de grupo y por último el ruido.
 
-PRUEBAS
+## PRUEBAS ##
 
-RESULTADOS
+## RESULTADOS ##
+
 Interfaz amigable con el usuario.
 Alto accuracy en el testing.
 Análisis en tiempo real.
 Análisis multiusuario.
-![image](https://user-images.githubusercontent.com/103965538/207134368-7afa477e-2b91-47a5-9769-ce94d00fa106.png)
 
 
 
