@@ -18,7 +18,7 @@ Utilización de tres algoritmos de Clasificación y una Red Neuronal.
 Para el tratamiento de las imágenes se utilizo OpenCV y el Dataset con e que se conto fue 67 % de entrenamienyo y 33 % de prueba, 
 como variables a predecir fueron imágenes de rostro de mi persona, de dos compañeros de grupo y por último el ruido.
 
-<img src="images/algoritmo.png" width="100" height="50">
+<img src="images/algoritmo.png" width="100" height="20">
 ![](images/algoritmo.png 100x20)
 
 ## PRUEBAS ##
