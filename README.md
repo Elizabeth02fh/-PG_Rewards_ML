@@ -23,7 +23,7 @@ como variables a predecir fueron imágenes de rostro de mi persona, de dos compa
 ## RESULTADOS ## 
 
 Interfaz amigable con el usuario.</br>
-Alto accuracy en el testing.
-Análisis en tiempo real.
-Análisis en tiempo real.
-Análisis multiusuario.
+Alto accuracy en el testing.</br>
+Análisis en tiempo real.</br>
+Análisis en tiempo real.</br>
+Análisis multiusuario.</br>
