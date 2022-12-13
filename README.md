@@ -14,9 +14,10 @@ Implementar el software que sea capaz de procesar imágenes en busca de personas
 Implementar el software que sea capaz de procesar video (webcam) en tiempo real.
 
 ## METODOLOGÍA ##
-Utilización de tres algoritmos de Clasificación y una Red Neuronal.
-Para el tratamiento de las imágenes se utilizo OpenCV y el Dataset con e que se conto fue 67 % de entrenamienyo y 33 % de prueba, 
+El dataset de las imágenes y el csv generado de estas imágenes se encuentra en el siguiente [link](https://drive.google.com/drive/folders/10mIg8AHHEsoDVCQMe7i53LxSDsD0pUFT?usp=sharing), 
+Para el tratamiento de las imágenes se utilizó OpenCV utilizando 67 % de datos de entrenamienyo y 33 % de prueba, 
 como variables a predecir fueron imágenes de rostro de mi persona, de dos compañeros de grupo y por último el ruido.
+Utilizamos tres algoritmos de Clasificación y una Red Neuronal.
 <img src="images/algoritmo.PNG" width="600" height="250" >
 
 ## PRUEBAS ##
@@ -25,3 +26,6 @@ Comparación de algoritmos utilizados por el entrenamiento
 
 ## RESULTADOS ## 
 <img src="images/resultados 2.PNG" width="600" height="250" >
+El sistema de recompensas.pe en extension .exe, se encuentra en el siguiente [link](https://drive.google.com/drive/folders/1CMNqSQSusXRN-6AbypaJFzWbJWyLQ8jw?usp=sharing) para ejecutarlo de manera local.
+
+También, para probar el sistema de recompensas.pe, en el siguiente [link](https://drive.google.com/drive/folders/1HVvS6R_Du6kIBsKcrNsP9PMyK6KdiWwT?usp=sharing) se muestra algunas fotos para probar el sistema. 
