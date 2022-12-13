@@ -19,6 +19,7 @@ en el siguiente [link](https://drive.google.com/drive/folders/1IWyhG8DZOhrAiXm_J
 Para el tratamiento de las imágenes se utilizó OpenCV utilizando 67 % de datos de entrenamienyo y 33 % de prueba, 
 como variables a predecir fueron imágenes de rostro de mi persona, de dos compañeros de grupo y por último el ruido.
 Utilizamos tres algoritmos de Clasificación y una Red Neuronal.
+
 <img src="images/algoritmo.PNG" width="600" height="250" >
 
 ## PRUEBAS ##
