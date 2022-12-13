@@ -14,7 +14,8 @@ Implementar el software que sea capaz de procesar imágenes en busca de personas
 Implementar el software que sea capaz de procesar video (webcam) en tiempo real.
 
 ## METODOLOGÍA ##
-El dataset de las imágenes y el csv generado de estas imágenes se encuentra en el siguiente [link](https://drive.google.com/drive/folders/10mIg8AHHEsoDVCQMe7i53LxSDsD0pUFT?usp=sharing), 
+El dataset de las imágenes y el csv generado de estas imágenes se encuentra
+en el siguiente [link](https://drive.google.com/drive/folders/10mIg8AHHEsoDVCQMe7i53LxSDsD0pUFT?usp=sharing) 
 Para el tratamiento de las imágenes se utilizó OpenCV utilizando 67 % de datos de entrenamienyo y 33 % de prueba, 
 como variables a predecir fueron imágenes de rostro de mi persona, de dos compañeros de grupo y por último el ruido.
 Utilizamos tres algoritmos de Clasificación y una Red Neuronal.
