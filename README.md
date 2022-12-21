@@ -25,10 +25,11 @@ We use three Classification algorithms and a Neural Network.
 
 ## TESTS ##
 Comparison of algorithms used by training
-<img src="images/resultados.PNG" width="600" height="250">
+<img src="images/resultados.PNG" width="650" height="250">
 
 ## RESULTS ##
-<img src="images/resultados 2.PNG" width="600" height="250" >
+Here:
+<img src="images/resultados 2.PNG" width="700" height="250" align="center">
 
 The system of rewards.pe in extension .exe or EXECUTABLE, is in the following [link](https://drive.google.com/drive/folders/18__86Wrsghzohc6Ugx0rmT57QkgLmQtT?usp=sharing) para ejecutarlo de manera local.
 
